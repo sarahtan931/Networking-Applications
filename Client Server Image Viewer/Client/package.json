@@ -1,0 +1,13 @@
+{
+  "name": "stan229_assigment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../Client/GetImage.js",
+  "dependencies": {
+    "open": "^7.4.0"
+  },
+  "devDependencies": {},
+  "author": "enter your name here",
+  "license": "ISC"
+  
+}
